@@ -14,3 +14,11 @@
   </div>
 </div>
 
+<details>
+  <summary>
+    Learn more
+  </summary>
+
+  This is my [Student](https://github.com/BuJetsadaWijit) Account and This is my [License](https://github.com/UniversityBangkokStudentID1640705339) Read it!!
+
+</details>
